@@ -1,0 +1,46 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-pedantic-errors",
+      "-Wunused-parameter",
+      "-Wuninitialized",
+      "-Wfloat-equal",
+      "-Wconversion",
+      "-g",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/getopt.o",
+      "src/getopt.cpp"
+    ],
+    "directory": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/getopt",
+    "file": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/getopt/src/getopt.cpp",
+    "output": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/getopt/build/getopt.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-pedantic-errors",
+      "-Wunused-parameter",
+      "-Wuninitialized",
+      "-Wfloat-equal",
+      "-Wconversion",
+      "-g",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/main.o",
+      "src/main.cpp"
+    ],
+    "directory": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/getopt",
+    "file": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/getopt/src/main.cpp",
+    "output": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/getopt/build/main.o"
+  }
+]
