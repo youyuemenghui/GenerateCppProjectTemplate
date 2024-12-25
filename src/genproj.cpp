@@ -1,4 +1,4 @@
-#include "getopt.hpp"
+#include "genproj.hpp"
 #include <stdexcept>
 #include <iostream>
 #include <fstream>

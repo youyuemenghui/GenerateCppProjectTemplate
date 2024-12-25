@@ -4,7 +4,7 @@ CC := g++
 CFLAGS := -std=c++20 -Wall -Wextra -pedantic-errors -Wunused-parameter -Wuninitialized  -Wfloat-equal -Wconversion -g
 
 # 项目名称
-PROJECT_NAME :=getopt
+PROJECT_NAME :=genproj
 
 # 目录
 SRC_DIR := src

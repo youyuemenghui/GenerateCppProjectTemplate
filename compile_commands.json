@@ -14,12 +14,12 @@
       "-Iinclude",
       "-c",
       "-o",
-      "build/getopt.o",
-      "src/getopt.cpp"
+      "build/genproj.o",
+      "src/genproj.cpp"
     ],
-    "directory": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/getopt",
-    "file": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/getopt/src/getopt.cpp",
-    "output": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/getopt/build/getopt.o"
+    "directory": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/genproj",
+    "file": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/genproj/src/genproj.cpp",
+    "output": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/genproj/build/genproj.o"
   },
   {
     "arguments": [
@@ -39,8 +39,8 @@
       "build/main.o",
       "src/main.cpp"
     ],
-    "directory": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/getopt",
-    "file": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/getopt/src/main.cpp",
-    "output": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/getopt/build/main.o"
+    "directory": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/genproj",
+    "file": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/genproj/src/main.cpp",
+    "output": "/home/youyue/data/ArchiveData/Code/c++/LearningSource/genproj/build/main.o"
   }
 ]

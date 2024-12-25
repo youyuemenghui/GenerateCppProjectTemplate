@@ -26,6 +26,17 @@ private:
   std::string _Projectname;
   std::string _SrcDir;
   std::string _IncludeDir;
-  std::vector<std::string> _Subdir{"bin","build","doc","lib","test"};
 
+};
+
+class FullProjectGenerate : public ProjectGenerate
+{
+private:
+  std::vector<std::string> _Subdir{"bin","build","doc","lib","test"};
+};
+
+class SimpleProjectGenerate : public ProjectGenerate
+{
+private:
+  std::vector<std::string> _Subdir{"bin","build","test"};
 };
